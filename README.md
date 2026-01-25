@@ -101,7 +101,7 @@ git clone https://github.com/yourusername/smart-waste-detection.git
 cd smart-waste-detection
 ```
 
-### Step 2: Create Virtual Environment (Recommended)
+### Step 2: Create Virtual Environment 
 ```bash
 # Windows
 python -m venv venv
@@ -457,4 +457,5 @@ If you found this helpful, please ⭐ star this repository to help others discov
 **Last Updated**: 2026-01-08  
 **Version**: 1.1.0  
 **Status**: ✅ Production Ready
+
 
