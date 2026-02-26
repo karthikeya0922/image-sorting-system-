@@ -405,6 +405,20 @@ This project is perfect for:
 
 ---
 
+## 📚 Session 8 Documentation
+
+Comprehensive project documentation prepared as part of the final session:
+
+| Document | Description |
+|----------|-------------|
+| [Project Report](docs/PROJECT_REPORT.md) | IEEE-style comprehensive report: abstract, methodology, results, architecture |
+| [Demonstration Guide](docs/DEMONSTRATION_GUIDE.md) | Step-by-step live demo instructions for GUI and CLI apps |
+| [Challenges & Reflections](docs/CHALLENGES_AND_REFLECTIONS.md) | Obstacles faced, solutions applied, and lessons learned |
+| [Future Enhancements](docs/FUTURE_ENHANCEMENTS.md) | Proposed improvements: cloud, IoT, model upgrades, mobile app |
+| [Code Documentation](docs/CODE_DOCUMENTATION.md) | Complete reference for every module, class, and function |
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how:
